@@ -36,6 +36,12 @@ body:
     validations:
       required: true
   - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: textarea
     id: acceptance-criteria
     attributes:
       label: Acceptance Criteria
