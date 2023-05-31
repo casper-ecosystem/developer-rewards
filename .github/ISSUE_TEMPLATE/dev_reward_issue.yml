@@ -1,0 +1,44 @@
+name: Add DevReward
+description: Add issue with the details of the DevReward
+title: "[DevReward]: Name of new issue"
+labels: ["DevReward"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in the details of the DevReward        
+  - type: input
+    id: bounty-name
+    attributes:
+      label: Dev Reward Title
+      placeholder: Put the title here
+    validations:
+      required: true
+  - type: input
+    id: reward-size
+    attributes:
+      label: Reward Size
+      placeholder: Value in CSPR
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Reward category
+      description: Select the category
+      options:
+        - NFT
+        - DeFi
+        - SDK
+        - DApps
+        - Documentation
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: What are the acceptance criteria of the task?
+    validations:
+      required: true
