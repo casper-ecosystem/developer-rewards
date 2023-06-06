@@ -34,7 +34,7 @@ body:
     attributes:
       label: Description
       description: Please describe your idea as good as possible and use the example for orientation.
-      placeholder: Prepare a simple web UI (preferably React) with a button that people can press to get X amount of Token, redeemable only once every 24h.  A similar solution we have for the $CSPR native token on the testnet. We want an easier way of token distribution. UI should be in the form of an injectable component.
+      placeholder: here is an example
     validations:
       required: true
   - type: textarea
@@ -42,6 +42,9 @@ body:
     attributes:
       label: Acceptance Criteria
       description: Please define acceptance criteria as accurate as possible and use the example for orientation.
-      placeholder: Your acceptance criteria go here
-      validations:
-        required: true
+      placeholder: |
+        * criterion 1
+        * criterion 2
+        * criterion 3
+    validations:
+      required: true
