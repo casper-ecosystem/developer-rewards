@@ -43,8 +43,8 @@ body:
       label: Acceptance Criteria
       description: Please define acceptance criteria as accurate as possible and use the example for orientation.
       placeholder: |
-        * criterion 1
-        * criterion 2
-        * criterion 3
+        criterion 1
+        criterion 2
+        criterion 3
       validations:
         required: true
