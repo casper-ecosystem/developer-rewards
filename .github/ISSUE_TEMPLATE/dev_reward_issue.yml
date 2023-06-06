@@ -1,6 +1,6 @@
 name: Add DevReward
 description: Add issue with the details of the DevReward
-title: "[DevReward]: Name of new issue"
+title: "Dev Reward Title"
 labels: ["proposal"]
 body:
   - type: markdown
