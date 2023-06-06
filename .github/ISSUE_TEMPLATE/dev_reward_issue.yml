@@ -34,8 +34,9 @@ body:
     attributes:
       label: Description
       description: Please describe your idea as good as possible and use the example for orientation.
-      placeholder: 'Example:
-      Prepare a simple web UI (preferably React) with a button that people can press to get X amount of Token, redeemable only once every 24h.  A similar solution we have for the $CSPR native token on the testnet. We want an easier way of token distribution. UI should be in the form of an injectable component.'
+      placeholder: |
+      Example:
+      Prepare a simple web UI (preferably React) with a button that people can press to get X amount of Token, redeemable only once every 24h.  A similar solution we have for the $CSPR native token on the testnet. We want an easier way of token distribution. UI should be in the form of an injectable component.
     validations:
       required: true
   - type: textarea
@@ -43,14 +44,15 @@ body:
     attributes:
       label: Acceptance Criteria
       description: Please define acceptance criteria as accurate as possible and use the example for orientation.
-      placeholder: 'Example:
+      placeholder: |
+      'Example:
 - Check CEP-18 implementation of ERC-20 standard on Casper Network.
 - Deploy CEP-18 smart contract to TestNet (with the name of your choice and supply amounting to 1 000 000 tokens)
 - Create a simple web app connected to the Casper Wallet plus any other signing tool.
-- On the website, implement a logic to distribute the tokens from the token pool:
+- On the website, implement a logic to distribute the tokens from the token pool
   - The user can initiate the distribution process of 1000 tokens by clicking on the button and signing the transaction, he is paying the gas fee to transfer the tokens to his account.
   - There is a cooldown of 24h before he can repeat the action.
   - The website checks the number of tokens left and shows this to the user.
   - The website will present the history or previous transactions.'
-      validations:
-        required: true
+    validations:
+      required: true
