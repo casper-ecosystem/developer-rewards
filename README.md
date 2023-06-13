@@ -4,19 +4,15 @@ Welcome to the Casper Association's DevReward Program. The purpose of this progr
 
 ### How to Set Up a Proposal for a DevReward
 
-If you have a proposal for a DevReward, which can be described as an idea to improve the Casper Ecosystem and encourages developers to implement it by offering a reward in CSPR tokens, then you can easily gain access to the GitHub Issue Form using the link below:
-
-[Link]
+If you have a proposal for a DevReward, which can be described as an idea to improve the Casper Ecosystem and encourages developers to implement it by offering a reward in CSPR tokens, then you can easily gain access to the GitHub [Issue Form](https://github.com/casper-ecosystem/developer-rewards/issues/new/choose).
 
 Please try to describe the proposal as accurately as possible, providing examples such as links, if applicable.
 
 ### Scope of the DevRewards
 
 - The DevReward Program aims to generate rewards within the range of USD 100 to USD 1,000 per DevReward at maximum. 
-- All existing DevRewards are listed on the following webpage, and anyone can participate in the work:
-
-[Link]
-
+<!--- All existing DevRewards are listed on the following webpage, and anyone can participate in the work.
+-->
 - Once a DevReward is completed, the Casper Association will review it against the acceptance criteria, and the reward will be paid out to the developer. 
 - All DevRewards are paid out in CSPR Tokens as per the calculation available [here](https://www.emergingte.ch/casper-prices/?cpage=1).
 
@@ -111,4 +107,3 @@ It is not recommended to involve third parties in DevReward proposals. The code 
 **How frequently are the CSPR rewards paid out to developers upon successful completion of a DevReward?**
 
 The assessments and payout of CSPR rewards are also planned on a biweekly basis, aligning with the assessment process.
-
