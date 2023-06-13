@@ -11,7 +11,7 @@ body:
     id: reward-size
     attributes:
       label: Reward Size in USD
-      description: Reward should be below USD1.000. It will be paid out in CSPR
+      description: Reward size should be below USD1,000. It will be paid in CSPR.
       placeholder: Value in USD
     validations:
       required: true
