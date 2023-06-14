@@ -7,12 +7,22 @@ body:
     attributes:
       value: |
         Fill in the details of the DevReward
-  - type: input
+  - type: dropdown
     id: reward-size
     attributes:
       label: Reward Size in USD
       description: Reward size should be below USD1,000. It will be paid in CSPR.
-      placeholder: Value in USD
+      options:
+        - 100 USD
+        - 200 USD
+        - 300 USD
+        - 400 USD
+        - 500 USD
+        - 600 USD
+        - 700 USD
+        - 800 USD
+        - 900 USD
+        - 1000 USD
     validations:
       required: true
   - type: dropdown
