@@ -35,7 +35,7 @@ Please try to describe the proposal as accurately as possible, providing example
 
 #### Delivery of Work and Review
 
-- After completing the assigned work, developers can send their deliverables to the following mail adress: [devrewards@casper.network](mailto:devrewards@casper.network)  
+- After completing the assigned work, developers can send their deliverables to the following mail adress: [devrewards@casper.network]
 - The Casper Association will review the submitted work to ensure it meets the specified criteria.
 - If the review was successful, the developer will receive an email with quick feedback and a request to send the CSPR address where the reward can be sent to.
 
