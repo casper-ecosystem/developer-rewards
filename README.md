@@ -2,6 +2,8 @@
 
 Welcome to the Casper Association's DevReward Program. The purpose of this program is to improve the Casper ecosystem through your valuable inputs. This repository serves as the documentation and resource hub for the program, providing you with all the necessary information to contribute your ideas and collaborate with the Casper ecosystem teams. As you help address the areas open for improvement within the ecosystem, you will be rewarded with CSPR tokens.
 
+With any questions reach out to [nicolasz@casper.network](mailto:nicolasz@casper.network)
+
 ### How to Set Up a Proposal for a DevReward
 
 If you have a proposal for a DevReward, which can be described as an idea to improve the Casper Ecosystem and encourages developers to implement it by offering a reward in CSPR tokens, then you can easily gain access to the GitHub [Issue Form](https://github.com/casper-ecosystem/developer-rewards/issues/new/choose).
