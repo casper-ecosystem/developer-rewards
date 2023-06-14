@@ -1,6 +1,6 @@
 # DevReward Program
 
-Welcome to the Casper Association's DevReward Program. The purpose of this program is to improve the Casper ecosystem through your valuable inputs. This repository serves as the documentation and resource hub for the program, providing you with all the necessary information to contribute your ideas and collaborate with the Casper ecosystem teams. As you help address the areas open for improvement within the ecosystem, you will be rewarded with CSPR tokens .
+Welcome to the Casper Association's DevReward Program. The purpose of this program is to improve the Casper ecosystem through your valuable inputs. This repository serves as the documentation and resource hub for the program, providing you with all the necessary information to contribute your ideas and collaborate with the Casper ecosystem teams. As you help address the areas open for improvement within the ecosystem, you will be rewarded with CSPR tokens.
 
 ### How to Set Up a Proposal for a DevReward
 
@@ -31,11 +31,13 @@ Please try to describe the proposal as accurately as possible, providing example
 
 - Once the DevReward proposal is assessed and approved, it will be published on the webpage, indicating that it is ready for implementation. 
 - Interested individuals can choose a DevReward to work on based on their interests and skills.
+- Only DevRewards with the status "Open" are ready to be worked on and are considered for evaluation in terms of deliveries.
 
 #### Delivery of Work and Review
 
-- After completing the assigned work, developers can upload their deliverables through the GitHub Portal. 
+- After completing the assigned work, developers can send their deliverables to the following mail adress: [devrewards@casper.network](mailto:devrewards@casper.network)  
 - The Casper Association will review the submitted work to ensure it meets the specified criteria.
+- If the review was successful, the developer will receive an email with quick feedback and a request to send the CSPR address where the reward can be sent to.
 
 ### Payout of CSPR Rewards
 
