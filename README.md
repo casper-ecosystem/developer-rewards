@@ -29,9 +29,9 @@ Please try to describe the proposal as accurately as possible, providing example
 
 #### Publishing the DevReward and Readiness for Work
 
-- Once the DevReward proposal is assessed and approved, it will be published on the webpage, indicating that it is ready for implementation. 
+- Once the DevReward proposal is assessed and approved, it will be published on the webpage, indicating that it is ready for implementation **Webpage coming end of June**. 
 - Interested individuals can choose a DevReward to work on based on their interests and skills.
-- Only DevRewards with the status "Open" are ready to be worked on and are considered for evaluation in terms of deliveries.
+- Only DevRewards with the tag "Open" indicated on GitHub are ready to be worked on and are considered for evaluation in terms of deliveries.
 
 #### Delivery of Work and Review
 
