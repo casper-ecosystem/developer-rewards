@@ -23,7 +23,7 @@ Please try to describe the proposal as accurately as possible, providing example
 #### DevReward Proposal Submission
 
 - Any individual with an idea and identification of missing parts in the Casper ecosystem can submit their DevReward proposal via the GitHub Form. 
-- This program has been designed for developer teams who are actively building on the Casper public network and/or for teams or individuals who have a deep understanding of the network's code structure. If you wish to contribute to the open-source code and are skilled in bug fixing, you can participate and get rewarded for your contributions.
+- This program has been designed for developer teams who are actively building on the Casper public network and/or for teams or individuals who have a deep understanding of the network's code structure. If you wish to contribute to the open-source code and are skilled in bug fixing or programming, you can participate and get rewarded for your contributions.
 
 #### Assessment of the DevReward Proposal
 
@@ -73,7 +73,7 @@ The Casper Association will review the completed DevReward against the acceptanc
 
 **Is it allowed to submit a proposal for a DevReward and start working on the solution once it is accepted?**
 
-Yes, it is allowed and encouraged to work on the solution as soon as the proposal for a DevReward is accepted. This approach ensures that the initiator of the proposal can actively participate in the development process.
+Yes, it is allowed and encouraged to work on the solution as soon as the proposal for a DevReward is accepted. This approach ensures that the initiator of the proposal can actively participate in the development process. Active and approved DevRewards ready for work are marked with the label "open".
 
 **Can a proposal be submitted for a DevReward that has already been implemented?**
 
@@ -81,11 +81,12 @@ DevReward proposals are only considered for issues that have not been implemente
 
 **What is the process if another developer completes and delivers a DevReward before me?**
 
-The process follows a "first come, first served" approach. If multiple developers deliver their solutions in a short period and both solutions align with the acceptance criteria, the rewards will be paid out to both developers in full. This is at the discretion of the Casper Association responsible parties.
+The process follows a "first come, first served" approach. If multiple developers deliver their solutions in a short period and both solutions align with the acceptance criteria, the rewards will be paid out to both developers in full. This is at the discretion of the Casper Association responsible parties. The Casper Association reserves the right to exclude the respective developer from the process in case of suspicion of copy-paste deliveries from other sources.  
 
 **How long does the assessment process for a DevReward proposal typically take?**
 
-The assessments are currently planned on a biweekly basis, and therefore, the process is expected to be completed within 2 weeks.
+The assessments are currently planned on a biweekly basis, and therefore, the process is expected to be completed within 2 weeks. 
+During the month of July, no evaluation meeting will take place due to holiday season. 
 
 **Are there any specific technical requirements or programming languages that developers should consider when working on a DevReward?**
 
@@ -93,7 +94,7 @@ This depends on the specific DevReward. Please refer to the DevReward specificat
 
 **Is there any limit to the number of DevRewards a developer can work on simultaneously?**
 
-There is no limit to the number of DevRewards a developer can work on simultaneously. However, it is recommended not to delay the work once a DevReward is ready, as it follows a "first come, first served" basis.
+There is no limit to the number of DevRewards a developer can work on simultaneously. However, it is recommended not to delay the work once a DevReward is "open" and ready to work on, as it follows a "first come, first served" basis.
 
 **Are there any specific licenses or intellectual property considerations related to the work done for a DevReward?**
 
@@ -111,3 +112,4 @@ It is not recommended to involve third parties in DevReward proposals. The code 
 **How frequently are the CSPR rewards paid out to developers upon successful completion of a DevReward?**
 
 The assessments and payout of CSPR rewards are also planned on a biweekly basis, aligning with the assessment process.
+During the month of July, no evaluation meeting will take place due to holiday season. 
