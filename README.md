@@ -1,5 +1,5 @@
 **Notification: 
-Please be aware that the next technical evaluation meeting and assessment of the delivered and completed DevReward will take place on the 31st of July. The submission of proposals remains unaffected. Have an amazing summertime!**
+Please be aware that the next technical evaluation meeting and assessment of the delivered and completed DevRewards will take place on the 31st of July. The submission of proposals remains unaffected. Have an amazing summertime!**
 
 # DevReward Program
 
