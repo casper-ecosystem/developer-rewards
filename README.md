@@ -1,8 +1,11 @@
+**Notification: 
+Please be aware that the next technical evaluation meeting and assessment of the delivered and completed DevReward will take place on the 31st of July. The submission of proposals remains unaffected. Have an amazing summertime!**
+
 # DevReward Program
 
 Welcome to the Casper Association's DevReward Program. The purpose of this program is to improve the Casper ecosystem through your valuable inputs. This repository serves as the documentation and resource hub for the program, providing you with all the necessary information to contribute your ideas and collaborate with the Casper ecosystem teams. As you help address the areas open for improvement within the ecosystem, you will be rewarded with CSPR tokens.
 
-With any questions reach out to [nicolasz@casper.network](mailto:nicolasz@casper.network)
+With any questions reach out to [devrewards@casper.network](mailto:devrewards@casper.network)
 
 ### How to Set Up a Proposal for a DevReward
 
