@@ -1,5 +1,3 @@
-**Notification: 
-Please be aware that the next technical evaluation meeting and assessment of the delivered and completed DevRewards will take place on the 31st of July. The submission of proposals remains unaffected. Have an amazing summertime!**
 
 # DevReward Program
 
@@ -20,8 +18,7 @@ Please try to describe the proposal as accurately as possible, providing example
 ### Scope of the DevRewards
 
 - The DevReward Program aims to generate rewards within the range of USD 100 to USD 1,000 per DevReward at maximum. 
-<!--- All existing DevRewards are listed on the following webpage, and anyone can participate in the work.
--->
+- All existing DevRewards are listed on the following [webpage](https://developer.casper.network/dev-rewards/).
 - Once a DevReward is completed, the Casper Association will review it against the acceptance criteria, and the reward will be paid out to the developer. 
 - All DevRewards are paid out in CSPR Tokens as per the calculation available [here](https://www.emergingte.ch/casper-prices/?cpage=1).
 
@@ -38,7 +35,7 @@ Please try to describe the proposal as accurately as possible, providing example
 
 #### Publishing the DevReward and Readiness for Work
 
-- Once the DevReward proposal is assessed and approved, it will be published on the webpage, indicating that it is ready for implementation **Webpage coming end of June**. 
+- Once the DevReward proposal is assessed and approved, it will be published on the [webpage](https://developer.casper.network/dev-rewards/), indicating that it is ready for implementation.
 - Interested individuals can choose a DevReward to work on based on their interests and skills.
 - Only DevRewards with the tag "Open" indicated on GitHub are ready to be worked on and are considered for evaluation in terms of deliveries.
 
@@ -93,7 +90,6 @@ The process follows a "first come, first served" approach. If multiple developer
 **How long does the assessment process for a DevReward proposal typically take?**
 
 The assessments are currently planned on a biweekly basis, and therefore, the process is expected to be completed within 2 weeks. 
-During the month of July, no evaluation meeting will take place due to holiday season. 
 
 **Are there any specific technical requirements or programming languages that developers should consider when working on a DevReward?**
 
